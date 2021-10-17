@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/*media Queries 480
+----------------------------------------------------*/
+@media screen and (max-width: 480px){
+/*works*/
+	
+/*skill*/
+	.skill-inner{
+		         width:100%;
+	}
+	.skill-explain{
+		           font-size: 90%;
+		           margin-left: 20px;
+	}
+	.skill-list1{
+		         display: block;
+		         justify-content: center;
+		         
+	}
+	.skill-list2{
+		         display:block;
+		         justify-content: center;
+	}
+	
+	.skill-item1{
+		         width:350px;
+		         margin:0 10px;
+	}
+	.skill-item2{
+		        width:350px;
+		        margin:0 10px;
+	}
+	.skill-img {
+		       margin-left: 0;
+		       margin-right:15px; 
+	 }
+	.graph1{
+		 font-size: 1.2em;
+	}
+}
